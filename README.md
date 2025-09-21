@@ -28,7 +28,7 @@ max uptime when controller/steam keyboard bugs out
 - You can drag files into terminal/konsole/console etc and it'll give the absolute path on sensible systems
 - complains but works
 - steam does not like being quit by osascript. fixable but a pain don't bother.
-- this readme is longer than the script. u better b grateful i thought it important enough to write, future me
+- this readme is longer than the script. u better b grateful i thought it important enough to write, future me; cheers to anyone not me passing by
 
 
 ## Contributing
