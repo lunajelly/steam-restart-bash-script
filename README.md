@@ -1,11 +1,13 @@
 ## restart steam script
 sloppy bash script that restarts steam.
 
+apparently my ver of steam restarts auto on pkill
+
 	
 ## Tested on 
 Mac High Sierra
 
-## Don't even try it on
+## unsure if it risky on
 SteamOS
 
 
@@ -13,6 +15,9 @@ SteamOS
 max uptime when controller/steam keyboard bugs out
 
 ## Usage
+
+if Mac High Sierra use restart_steam_myb.sh, 
+ o.w try restart_steamgen.sh
 
 1. copy somewhere convenient
 
@@ -27,8 +32,8 @@ max uptime when controller/steam keyboard bugs out
 - if double clicking hurts too much I have `chmod +x` on my local ezcp; use w https://lunajelly.github.io/ezcp/customezcp.html
 - You can drag files into terminal/konsole/console etc and it'll give the absolute path on sensible systems
 - complains but works
-- steam does not like being quit by osascript. fixable but a pain don't bother.
-- this readme is longer than the script. u better b grateful i thought it important enough to write, future me
+- steam does not like being quit by osascript. a pain don't bother.
+- this readme is longer than the script. u better b grateful i thought it important enough to write, future me. cheers to those not me
 
 
 ## Contributing
