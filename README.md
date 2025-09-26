@@ -33,7 +33,7 @@ if Mac High Sierra use restart_steam_myb.sh,
 - You can drag files into terminal/konsole/console etc and it'll give the absolute path on sensible systems
 - complains but works
 - steam does not like being quit by osascript. a pain don't bother.
-- this readme is longer than the script. u better b grateful i thought it important enough to write, future me. cheers to those not me
+- this readme is longer than the script. u better b grateful i thought it important enough to write, future me; cheers to anyone not me passing by
 
 
 ## Contributing
